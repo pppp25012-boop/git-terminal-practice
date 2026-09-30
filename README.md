@@ -1,2 +1,1 @@
-Git terminal practice
-Team project guide
+Project guide by main
