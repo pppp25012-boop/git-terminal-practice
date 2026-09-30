@@ -1,1 +1,1 @@
-Project guide by main and profile
+git-terminal-pratice
