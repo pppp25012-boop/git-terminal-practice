@@ -1,1 +1,1 @@
-Project guide by main
+Project guide by main and profile
